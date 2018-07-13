@@ -1,0 +1,14 @@
+{
+  "name": "asp.net-solution",
+  "description": "ASP.NET Solution Template for Visual Studio",
+  "repository": "https://github.com/KriaSoft/ASP.NET-Solution",
+  "devDependencies": {
+    "gulp": "~3.4.0",
+    "gulp-clean": "~0.2.4",
+    "gulp-concat": "~2.1.7",
+    "gulp-less": "~1.1.10",
+    "gulp-recess": "~0.1.0",
+    "gulp-rename": "~0.2.2",
+    "gulp-uglify": "~0.1.0"
+  }
+}
