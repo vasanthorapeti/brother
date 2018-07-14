@@ -8,18 +8,4 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <TimeStampOfAssociatedLegacyPublishXmlFile />
     <_PublishTargetUrl>C:\Vasant\Project Work\Brother\Playground\Deployment\BrotherSite</_PublishTargetUrl>
   </PropertyGroup>
-  <ItemGroup>
-    <File Include="bin/BrotherSite.dll">
-      <publishTime>07/14/2018 13:23:32</publishTime>
-    </File>
-    <File Include="bin/BrotherSite.pdb">
-      <publishTime>07/14/2018 13:23:32</publishTime>
-    </File>
-    <File Include="Index.aspx">
-      <publishTime>07/14/2018 13:21:47</publishTime>
-    </File>
-    <File Include="Web.config">
-      <publishTime>07/14/2018 13:22:53</publishTime>
-    </File>
-  </ItemGroup>
 </Project>

@@ -1,6 +1,0 @@
-C:\Vasant\Project Work\Brother\Playground\FourthSite\BrotherSite\BrotherSite\bin\BrotherSite.dll.config
-C:\Vasant\Project Work\Brother\Playground\FourthSite\BrotherSite\BrotherSite\bin\BrotherSite.dll
-C:\Vasant\Project Work\Brother\Playground\FourthSite\BrotherSite\BrotherSite\bin\BrotherSite.pdb
-C:\Vasant\Project Work\Brother\Playground\FourthSite\BrotherSite\BrotherSite\obj\Debug\BrotherSite.csproj.CoreCompileInputs.cache
-C:\Vasant\Project Work\Brother\Playground\FourthSite\BrotherSite\BrotherSite\obj\Debug\BrotherSite.dll
-C:\Vasant\Project Work\Brother\Playground\FourthSite\BrotherSite\BrotherSite\obj\Debug\BrotherSite.pdb

@@ -1,0 +1,11 @@
+C:\Vasant\Project Work\Brother\Playground\FiftSite\BrotherSite\BrotherSite\bin\Debug\netcoreapp2.0\BrotherSite.deps.json
+C:\Vasant\Project Work\Brother\Playground\FiftSite\BrotherSite\BrotherSite\bin\Debug\netcoreapp2.0\BrotherSite.runtimeconfig.json
+C:\Vasant\Project Work\Brother\Playground\FiftSite\BrotherSite\BrotherSite\bin\Debug\netcoreapp2.0\BrotherSite.runtimeconfig.dev.json
+C:\Vasant\Project Work\Brother\Playground\FiftSite\BrotherSite\BrotherSite\bin\Debug\netcoreapp2.0\BrotherSite.dll
+C:\Vasant\Project Work\Brother\Playground\FiftSite\BrotherSite\BrotherSite\bin\Debug\netcoreapp2.0\BrotherSite.pdb
+C:\Vasant\Project Work\Brother\Playground\FiftSite\BrotherSite\BrotherSite\obj\Debug\netcoreapp2.0\BrotherSite.csprojAssemblyReference.cache
+C:\Vasant\Project Work\Brother\Playground\FiftSite\BrotherSite\BrotherSite\obj\Debug\netcoreapp2.0\BrotherSite.csproj.CoreCompileInputs.cache
+C:\Vasant\Project Work\Brother\Playground\FiftSite\BrotherSite\BrotherSite\obj\Debug\netcoreapp2.0\BrotherSite.AssemblyInfoInputs.cache
+C:\Vasant\Project Work\Brother\Playground\FiftSite\BrotherSite\BrotherSite\obj\Debug\netcoreapp2.0\BrotherSite.AssemblyInfo.cs
+C:\Vasant\Project Work\Brother\Playground\FiftSite\BrotherSite\BrotherSite\obj\Debug\netcoreapp2.0\BrotherSite.dll
+C:\Vasant\Project Work\Brother\Playground\FiftSite\BrotherSite\BrotherSite\obj\Debug\netcoreapp2.0\BrotherSite.pdb
